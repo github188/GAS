@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/close_black.png</file>
+        <file>image/close_white.png</file>
+        <file>image/delete_black.png</file>
+        <file>image/delete_white.png</file>
+        <file>image/enter_black.png</file>
+        <file>image/enter_white.png</file>
+        <file>image/handwriting_black.png</file>
+        <file>image/handwriting_white.png</file>
+        <file>image/mini_black.png</file>
+        <file>image/mini_white.png</file>
+        <file>image/space_black.png</file>
+        <file>image/space_white.png</file>
+        <file>image/upper_black.png</file>
+        <file>image/upper_white.png</file>
+    </qresource>
+</RCC>
